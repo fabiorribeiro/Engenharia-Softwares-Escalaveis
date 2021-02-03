@@ -11,11 +11,11 @@ Conteúdo das aulas de projeto de bloco sobre Engenharia de Softwares Escalávei
 * TP9	- 01 de Junho
 * PB	- 08 e 15 de Junho
 
-#### 26/01/2021
+### Aula 26/01/2021
 Apresentação da disciplina
 <br>Sugestão de leitura: 
 
-#### 02/02/2021
+### Aula 02/02/2021
 Divisão dos grupos para o projeto
 <br>Discusão em grupo dando início ao TP1
 <br>Em príncipio escolhemos a Uber
@@ -27,6 +27,7 @@ Divisão dos grupos para o projeto
 * https://eng.uber.com/microservice-architecture/
 * https://eng.uber.com/service-oriented-architecture/
 
+---
 
 ### TP1 (23 de fevereiro)
 * Escolher uma empresa que utiliza microsserviços
