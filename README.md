@@ -18,6 +18,14 @@ Apresentação da disciplina
 #### 02/02/2021
 Divisão dos grupos para o projeto
 <br>Discusão em grupo dando início ao TP1
+<br>Em príncipio escolhemos a Uber
+
+<br><br>Links sobre a Uber
+* https://www.youtube.com/watch?v=EW9GjQNcyzI
+* https://medium.com/edureka/microservice-architecture-5e7f056b90f1
+* https://eng.uber.com/building-tincup-microservice-implementation/
+* https://eng.uber.com/microservice-architecture/
+* https://eng.uber.com/service-oriented-architecture/
 
 
 ### TP1 (23 de fevereiro)
