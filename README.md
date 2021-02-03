@@ -20,6 +20,6 @@ Divisão dos grupos para o projeto
 <br>Discusão em grupo dando início ao TP1
 
 
-### TP1
+### TP1 (23 de fevereiro)
 * Escolher uma empresa que utiliza microsserviços
-* Fazer uma apresentação de cerca de 12 slides (20min) explicando o tipo de arquitetura que utiliza, os pró e contras de utilizar microsserviços
+* Fazer uma apresentação com cerca de 12 slides (20min) explicando o tipo de arquitetura que utiliza, os pró e contras de utilizar microsserviços
