@@ -14,7 +14,14 @@ Apresentação da disciplina
 
 ### Aula 2 - 02/02/2021
 Divisão dos grupos para o projeto
-<br>Discusão em grupo dando início ao TP1
+
+Integrantes do grupo:
+* Bruno Mendes
+* Fábio Pereira
+* Fábio Ramos
+* Ronilson Batista
+
+<br>Discusão inicial para o TP1
 <br>Em príncipio escolhemos a Uber
 
 Links sobre a Uber
