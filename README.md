@@ -4,13 +4,15 @@ Conteúdo das aulas de projeto de bloco sobre Engenharia de Softwares Escalávei
 <br>Link para as aulas: https://infnet.zoom.us/j/97842073135
 <br>Link do Google Drive da disciplina: https://drive.google.com/drive/folders/1kpzo5N1vVNATrzabrzvrKSMui9Q50YWt
 
-### Aula 26/01/2021
+---
+
+### Aula 1 - 26/01/2021
 Apresentação da disciplina
 <br>Sugestão de leitura: 
 
 ---
 
-### Aula 02/02/2021
+### Aula 2 - 02/02/2021
 Divisão dos grupos para o projeto
 <br>Discusão em grupo dando início ao TP1
 <br>Em príncipio escolhemos a Uber
