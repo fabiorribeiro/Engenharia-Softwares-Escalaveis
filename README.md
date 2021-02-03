@@ -3,13 +3,13 @@
 Conteúdo das aulas de projeto de bloco sobre Engenharia de Softwares Escaláveis
 <br>Link para as aulas: https://infnet.zoom.us/j/97842073135
 <br>Link do Google Drive da disciplina: https://drive.google.com/drive/folders/1kpzo5N1vVNATrzabrzvrKSMui9Q50YWt
-<br>Entregas:
-<br>TP1	23 de fevereiro
-<br>TP3	23 de março
-<br>TP5	6 de Abril
-<br>TP7	5 de Maio
-<br>TP9	1 de Junho
-<br>PB	8 e 15 de Junho
+<br><br>Entregas:
+* TP1	- 23 de fevereiro
+* TP3	- 23 de março
+* TP5	- 06 de Abril
+* TP7	- 05 de Maio
+* TP9	- 01 de Junho
+* PB	- 08 e 15 de Junho
 
 #### 26/01/2021
 Apresentação da disciplina
@@ -21,5 +21,5 @@ Divisão dos grupos para o projeto
 
 
 ### TP1
-Escolher uma empresa que utiliza microsserviços
-<br>Fazer uma apresentação de cerca de 12 slides (20min) explicando o tipo de arquitetura que utiliza, os pró e contras de utilizar microsserviços
+* Escolher uma empresa que utiliza microsserviços
+* Fazer uma apresentação de cerca de 12 slides (20min) explicando o tipo de arquitetura que utiliza, os pró e contras de utilizar microsserviços
