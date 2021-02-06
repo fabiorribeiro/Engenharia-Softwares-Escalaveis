@@ -8,7 +8,6 @@ Conteúdo das aulas de projeto de bloco sobre Engenharia de Softwares Escalávei
 
 ### Aula 1 - 26/01/2021
 Apresentação da disciplina
-<br>Sugestão de leitura: 
 
 ---
 
