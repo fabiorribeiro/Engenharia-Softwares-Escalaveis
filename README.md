@@ -13,7 +13,8 @@ Apresentação da disciplina
 ---
 
 ### Aula 2 - 02/02/2021
-Divisão dos grupos para o projeto
+<br>Planilha com divisão dos grupos e dastas e entregas dos TP's
+<br>https://docs.google.com/spreadsheets/d/1LV8glpfz6JXVLvcYj4xpLwUJWRz-crPFEXssJ_40J50/edit#gid=0
 
 Integrantes do grupo:
 * Bruno Mendes
