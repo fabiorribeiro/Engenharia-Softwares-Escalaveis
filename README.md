@@ -38,6 +38,10 @@ Links sobre a Uber
 * Escolher uma empresa que utiliza microsserviços
 * Fazer uma apresentação com cerca de 12 slides (20min) explicando o tipo de arquitetura que utiliza, os pró e contras de utilizar microsserviços
 
+Apresentação
+* https://docs.google.com/document/d/1cXb346h0aAfdAcJnhmzrDF0pqUO2boDnDCDwjonl_oQ/edit
+* https://docs.google.com/presentation/d/1nVL9hrg2OD2Zv_RbhZSoQxgepL_xO2TgqSISDdm8taU/edit
+
 ---
 
 ### TP3 (23 de março)
