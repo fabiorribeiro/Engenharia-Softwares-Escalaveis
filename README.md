@@ -30,6 +30,7 @@ Links sobre a Uber
 * https://eng.uber.com/building-tincup-microservice-implementation/
 * https://eng.uber.com/microservice-architecture/
 * https://eng.uber.com/service-oriented-architecture/
+* https://www.shaunabram.com/blog-post-summary-domain-oriented-microservice-architecture-at-uber/
 
 ---
 
