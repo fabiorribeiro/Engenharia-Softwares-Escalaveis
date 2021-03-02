@@ -1,8 +1,9 @@
 ### Projeto de Bloco
 # Engenharia de Softwares Escaláveis
 Conteúdo das aulas de projeto de bloco sobre Engenharia de Softwares Escaláveis
-<br>Link para as aulas: https://infnet.zoom.us/j/97842073135
-<br>Link do Google Drive da disciplina: https://drive.google.com/drive/folders/1kpzo5N1vVNATrzabrzvrKSMui9Q50YWt
+<br>[Link para as aulas](https://infnet.zoom.us/j/97842073135)
+<br>[Mudle da disciplina](https://lms.infnet.edu.br/moodle/course/view.php?id=3786)
+<br>[Link do Google Drive da disciplina](https://drive.google.com/drive/folders/1kpzo5N1vVNATrzabrzvrKSMui9Q50YWt)
 
 ---
 
