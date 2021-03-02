@@ -20,6 +20,7 @@ Integrantes do grupo:
 * Fábio Pereira
 * Fábio Ramos
 * Ronilson Batista
+* Pedro Amim
 
 <br>Discusão inicial para o TP1
 <br>Em príncipio escolhemos a Uber
