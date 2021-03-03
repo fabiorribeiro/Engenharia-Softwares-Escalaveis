@@ -37,8 +37,9 @@ Links sobre a Uber
 ---
 
 ### Aula ? - 02/03/2021
-<br>Links sugeridos: https://learning.oreilly.com/library/view/patterns-principles-and/9781118714706/
-<br>https://learning.oreilly.com/videos/domain-driven-design-distilled/9780134593449?autoplay=false
+<br>Links sugeridos:
+* https://learning.oreilly.com/library/view/patterns-principles-and/9781118714706/
+* https://learning.oreilly.com/videos/domain-driven-design-distilled/9780134593449?autoplay=false
 
 ---
 
