@@ -50,6 +50,7 @@ Links sobre a Uber
 Apresentação
 * https://docs.google.com/document/d/1cXb346h0aAfdAcJnhmzrDF0pqUO2boDnDCDwjonl_oQ/edit
 * https://docs.google.com/presentation/d/1nVL9hrg2OD2Zv_RbhZSoQxgepL_xO2TgqSISDdm8taU/edit
+* https://www.youtube.com/watch?v=s8cvn2TUXoM&ab_channel=ArquitetodasGal%C3%A1xias
 
 ---
 
