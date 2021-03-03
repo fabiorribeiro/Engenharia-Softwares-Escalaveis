@@ -36,6 +36,12 @@ Links sobre a Uber
 
 ---
 
+### Aula ? - 02/03/2021
+<br>Links sugeridos: https://learning.oreilly.com/library/view/patterns-principles-and/9781118714706/
+<br>https://learning.oreilly.com/videos/domain-driven-design-distilled/9780134593449?autoplay=false
+
+---
+
 ### TP1 (23 de fevereiro)
 * Escolher uma empresa que utiliza microsserviços
 * Fazer uma apresentação com cerca de 12 slides (20min) explicando o tipo de arquitetura que utiliza, os pró e contras de utilizar microsserviços
