@@ -40,6 +40,7 @@ Links sobre a Uber
 <br>Links sugeridos:
 * https://learning.oreilly.com/library/view/patterns-principles-and/9781118714706/
 * https://learning.oreilly.com/videos/domain-driven-design-distilled/9780134593449?autoplay=false
+* https://www.youtube.com/watch?v=s8cvn2TUXoM&ab_channel=ArquitetodasGal%C3%A1xias
 
 ---
 
